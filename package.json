@@ -1,0 +1,10 @@
+{
+    "name": "MDJ Bot",
+    "version": "0.0.1",
+    "description": "MDJ pog champ",
+    "main": "index.js",
+    "author": "RoGamer26",
+    "dependencies": {
+        "discord.js": "^12.4.1"
+    }
+}
