@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
         .setAuthor('yo7ak')
         .setDescription('yo7ak')
         .setColor('#FF2D00')
-        .setImage('https://cdn.discordapp.com/attachments/660266379911626786/778279846257754132/unknown.png')
+        .setImage('https://cdn.discordapp.com/attachments/685065039048474632/778548297093873679/iu.png')
         .setFooter('yo7ak')
         .setTimestamp()
         
