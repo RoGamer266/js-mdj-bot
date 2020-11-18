@@ -12,6 +12,7 @@ module.exports.run = async (bot, message, args) => {
             { name: 'cat', value: 'sends cat', inline: true},
             { name: 'trenchboy', value: 'man', inline: true},
             { name: 'dutch', value: 'dutch', inline: true},
+            { name: 'avatar', value: 'self explained', inline: true},
             { name: 'and more', value: '**secret** ones (the commands are on github too)', inline: true},
         )
         .setTimestamp()
