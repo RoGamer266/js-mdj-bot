@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
     const embed = new Discord.MessageEmbed()
         .setTitle('hello')
         .setAuthor('hello sir')
-        .setDescription('so this bot was made by RoGamer266, here are some commands')
+        .setDescription('so this bot was made by daewld soon to be 266_d00r, here are some commands')
         .setColor('#FF2D00')
         .setFooter('nerd')
         .addFields(
@@ -13,6 +13,7 @@ module.exports.run = async (bot, message, args) => {
             { name: 'trenchboy', value: 'man', inline: true},
             { name: 'dutch', value: 'dutch', inline: true},
             { name: 'avatar', value: 'self explained', inline: true},
+            { name: 'kick', value: 'yes kicks', inline: true},
             { name: 'and more', value: '**secret** ones (the commands are on github too)', inline: true},
         )
         .setTimestamp()
